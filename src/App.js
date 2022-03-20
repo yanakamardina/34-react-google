@@ -1,11 +1,8 @@
-import React from 'react'
+import React from 'react';
+import { MainScreen } from './Components/mainscreen';
 
-function App () {
-    return (
-    <div className='wrapper'>
-        <h1>Hello</h1>
-    </div>
-    )
-}
+const App = () => {
+  return <MainScreen />;
+};
 
-export default App
+export default App;
