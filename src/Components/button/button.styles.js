@@ -22,3 +22,8 @@ export const StyledButton = styled.button`
     color: #202124;
   }
 `;
+
+export const ButtonPosition = styled.div`
+  display: flex;
+  justify-content: center;
+`;

@@ -5,3 +5,4 @@ export const Link = (props) => {
   const { href, text } = props;
   return <StyledLinks href={href}>{text}</StyledLinks>;
 };
+
