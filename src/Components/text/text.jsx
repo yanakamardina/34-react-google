@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleText, StyleTextDiv } from './text.styles';
-import { StyledLinkLang } from '../Components/links/links.styles';
+import { StyledLinkLang } from '../links/links.styles';
 
 export const Text = () => {
   return (

@@ -13,3 +13,11 @@ export const StyleTextDiv = styled.div`
   font-size: small;
   margin-bottom: 24px;
 `;
+
+export const TextFooter = styled.div`
+  color: #70757a;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: arial, sans-serif;
+`;

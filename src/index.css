@@ -1,0 +1,12 @@
+/* .App {
+  height: 100hv;
+  display: flex;
+  flex-direction: column;
+} */
+
+body {
+  margin: 0;
+  max-height: 100hv;
+  display: flex;
+  flex-direction: column;
+}

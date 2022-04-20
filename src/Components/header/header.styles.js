@@ -6,8 +6,8 @@ export const MenuIconWrapper = styled.div`
   border-radius: 50%;
   background: none;
   svg {
-    width: 30px;
-    height: 30px;
+    width: 24px;
+    height: 24px;
     opacity: 0.7;
   }
   display: flex;
@@ -24,4 +24,6 @@ export const StyledHeader = styled.header`
   justify-content: flex-end;
   align-items: center;
   padding: 10px;
+  max-width: 100%;
+  max-height: 48px;
 `;

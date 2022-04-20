@@ -31,6 +31,8 @@ export const IconSearshWrapper = styled.div`
   * {
     width: 100%;
   }
+
+  opacity: 0.4;
   cursor: pointer;
   position: absolute;
   top: 50%;
